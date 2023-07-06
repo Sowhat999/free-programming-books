@@ -1,9 +1,6 @@
 ## BY SUBJECT
 
-This list, organized by subject, is for books that cover a programming-related subject in a programming-language agnostic way.    
-Books that cover a specific programming language can be found in the  [BY PROGRAMMING LANGUAGE](free-programming-books-langs.md) list.
-
-
+imre messiah 
 ### Index
 
 * [0 - Meta-Lists](#0---meta-lists)
@@ -12,7 +9,8 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Blockchain](#blockchain)
 * [Cellular Automata](#cellular-automata)
 * [Cloud Computing](#cloud-computing)
-* [Competitive Programming](#competitive-programming)
+* [Competitive Programming](#competitive-programming)imre messiah 
+
 * [Compiler Design](#compiler-design)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Computer Science](#computer-science)
